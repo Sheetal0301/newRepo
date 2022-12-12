@@ -1,0 +1,8 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			 int abZ_ =23;
+			System.out.println(abZ_);
+		}
+}

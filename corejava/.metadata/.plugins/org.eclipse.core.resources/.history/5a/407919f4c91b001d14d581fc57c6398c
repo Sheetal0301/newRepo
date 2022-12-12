@@ -1,0 +1,13 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			
+			 int A=10;
+			 int a=20;
+			 System.out.println(A);
+			 System.out.println(a);
+			 
+			
+		}
+}

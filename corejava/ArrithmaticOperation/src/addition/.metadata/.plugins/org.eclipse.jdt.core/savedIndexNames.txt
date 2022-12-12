@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\DELL\Desktop\javaprogram\corejava\ArrithmaticOperation\src\addition\.metadata\.plugins\org.eclipse.jdt.core
+836571770.index
+2128575829.index
+1865797976.index
+1156053894.index

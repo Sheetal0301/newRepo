@@ -1,0 +1,10 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			
+			float f=20;
+			System.out.println(f);
+			
+		}
+}

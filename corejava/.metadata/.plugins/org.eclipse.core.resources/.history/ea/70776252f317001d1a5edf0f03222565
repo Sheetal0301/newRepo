@@ -1,0 +1,11 @@
+package multiplication;
+
+public class Twonomultiply {
+   public static void main(String[] args) {
+	int c=3;
+	int d=5;
+	int a=c*d;
+	System.out.println("a");
+	
+}
+}

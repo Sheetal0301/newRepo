@@ -1,0 +1,18 @@
+package Subtraction;
+import java.util.Scanner;
+public class Twonosub {
+public static void main(String[] args) {
+	
+	System.out.println("Enter First Number");
+	Scanner xy=new Scanner(System.in);
+	int a=xy.nextInt();
+	
+	System.out.println("Enter Second Number");
+	int b=xy.nextInt();
+	
+	int c=a-b;
+	System.out.println("Subtraction of two no is:"+c);
+		xy.close();
+	
+}
+}

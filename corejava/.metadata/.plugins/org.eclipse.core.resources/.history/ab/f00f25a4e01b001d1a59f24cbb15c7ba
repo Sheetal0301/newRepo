@@ -1,0 +1,16 @@
+package differentinput;
+
+import java.util.Scanner;
+
+public class DataTypeInput {
+ public static void main(String[] args) {
+	
+	 Scanner sc=new Scanner(System.in);
+	 System.out.println("enter your value:");
+	 String name=sc.next();
+	 System.out.println(name);
+	 sc.close();
+	 
+}
+ 
+}

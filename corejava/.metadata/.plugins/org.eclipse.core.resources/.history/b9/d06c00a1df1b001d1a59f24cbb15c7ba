@@ -1,0 +1,20 @@
+package differentinput;
+
+import java.util.Scanner;
+
+public class DataTypeInput {
+ public static void main(String[] args) {
+	
+	 Scanner sc=new Scanner(System.in);
+	 //for int type
+	 System.out.println("enter your number:");
+	 int a=sc.nextInt();
+	 System.out.println("Your Number Is:"+a);
+	 
+	//for string type
+	 System.out.println("enter your value:");
+	 string name=sc.next();
+	 System.out.println(name);
+	 
+}
+}

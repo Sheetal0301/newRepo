@@ -1,0 +1,11 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			 int abZ_0$ =23;
+			 float AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA =20;
+			System.out.println(abZ_0$);
+			System.out.println(AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA);
+			
+		}
+}

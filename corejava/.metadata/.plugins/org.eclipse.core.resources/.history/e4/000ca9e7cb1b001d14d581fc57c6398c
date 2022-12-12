@@ -1,0 +1,10 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			
+			char a123='D';
+			System.out.println(a123);
+			
+		}
+}

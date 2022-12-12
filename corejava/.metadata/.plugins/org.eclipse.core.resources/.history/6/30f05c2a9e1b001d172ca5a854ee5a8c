@@ -1,0 +1,9 @@
+package diferentIdentiier;
+
+public class Identiier {
+         public static void main(String[] args) {
+			 //int abZ_0$ =23;
+			 int abcSD_$%=20;
+			System.out.println(abcSD_$%);
+		}
+}
